@@ -1,4 +1,4 @@
-# HyperCraft
+# Engine
 
 [![Linux GCC](https://github.com/AdamYuan/HyperCraft/actions/workflows/linux.yml/badge.svg)](https://github.com/AdamYuan/HyperCraft/actions/workflows/linux.yml)
 [![Windows MSVC](https://github.com/AdamYuan/HyperCraft/actions/workflows/windows-msvc.yml/badge.svg)](https://github.com/AdamYuan/HyperCraft/actions/workflows/windows-msvc.yml)
